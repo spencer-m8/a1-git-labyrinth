@@ -8,7 +8,7 @@
   position: fixed;
   transform: translateX(100%) rotate(90deg);
   transform-origin: left top;
-  left: 40px; /* change this value to match needs */
+  left: 50%; /* change this value to match needs */
   top: 10px; /* change this value to match needs */
 }
 
