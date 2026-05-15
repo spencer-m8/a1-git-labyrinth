@@ -1,13 +1,13 @@
 /* I can't get away from CSS! */
 .parent {
   position: relative;
-  
+
 }
 
 .child {
   position: absolute;
   transform: translateX(-100%) rotate(-90deg);
   transform-origin: right;
-  left: 30px; /* change this value to match needs */
-  top: 30px; /* change this value to match needs */
+  left: 100px; /* change this value to match needs */
+  top: 100px; /* change this value to match needs */
 }
