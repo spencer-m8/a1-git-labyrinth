@@ -11,3 +11,9 @@
   left: 100px; /* change this value to match needs */
   top: 100px; /* change this value to match needs */
 }
+
+body {
+    background-image: url("images/clearcase.jpg");
+    width: 100%;
+    height: auto;
+}
