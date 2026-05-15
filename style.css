@@ -5,11 +5,11 @@
 }
 
 .child {
-  position: absolute;
-  transform: translateX(-100%) rotate(-90deg);
-  transform-origin: right;
-  left: 100px; /* change this value to match needs */
-  top: 100px; /* change this value to match needs */
+  position: fixed;
+  transform: translateX(100%) rotate(90deg);
+  transform-origin: left top;
+  left: 40px; /* change this value to match needs */
+  top: 10px; /* change this value to match needs */
 }
 
 body {
