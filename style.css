@@ -26,13 +26,13 @@ body {
 }
 
 .circle {
-    margin-left: 75%;
-    margin-bottom: 5%;
+    margin-left: 50%;
 }
 
 .tag {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(0%, 10%);
+    transform: translate(-50%, -50%);
+    transform: translate(100%, 0%);
 }
